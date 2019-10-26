@@ -20,5 +20,5 @@ Pod::Spec.new do |s|
   s.swift_version = "5.1"
   s.ios.deployment_target  = '12.0'
 
-  s.dependency "PodsHost"
+  #s.dependency "PodsHost"
 end
