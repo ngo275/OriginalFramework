@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OriginalFramework"
-  s.version      = "0.1.3"
+  s.version      = "0.1.16"
   s.summary      = "A brief description of MyFramework project."
   s.description  = <<-DESC
     An extended description of MyFramework project.
